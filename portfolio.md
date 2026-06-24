@@ -1,2 +1,7 @@
+---
+layout: default
+title: About Me
+---
+
 # My Work
-Loading throughout the semester...
+[Content placeholder for my work]
