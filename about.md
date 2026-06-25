@@ -43,7 +43,7 @@ Outside of school and flying, I’m a big fan of fishing, hunting, and traveling
   }
 </style>
 
-<form class="contact-form" action="https://formsubmit.co/YOUR_EMAIL@DOMAIN.COM" method="POST">
+<form class="contact-form" action="https://formsubmit.co/logan.j.ramthun@gmail.com" method="POST">
   <input type="text" name="name" placeholder="Your Name" required>
   <input type="email" name="email" placeholder="Your Email" required>
   <textarea name="message" placeholder="Your Message" required></textarea>
