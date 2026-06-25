@@ -3,10 +3,10 @@ layout: page
 title: About Me
 ---
 
-# Photo
+## Photo
 ![A photo of me](IMG_5509.JPG)
 
-# Biography
+## Biography
 
 Hi, I’m Logan Ramthun. I’ve lived in the Pacific Northwest my whole life and grew up here with my parents and my two little brothers. I’m currently a student at Washington State University working on my bachelor’s in Business Admin with a minor in Digital Tech and Culture, after getting my associates in Fire Science from Columbia Basin College.
 
@@ -14,7 +14,7 @@ When I’m not hitting the books or working part-time at Sportsman’s Warehouse
 
 Outside of school and flying, I’m a big fan of fishing, hunting, and traveling whenever I can. I’m also big into video games and have been getting interested in learning animation and graphic design on the side.
 
-# Contact Information
+## Contact Form
 <form action="https://formsubmit.co/logan.j.ramthun@gamil.com" method="POST">
   <input type="text" name="name" placeholder="Your Name" required>
   <input type="email" name="email" placeholder="Your Email" required>
