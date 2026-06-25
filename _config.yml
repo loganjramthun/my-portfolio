@@ -1,3 +1,7 @@
 title: My Digital Portfolio
-# Replace with your chosen theme (e.g., jekyll-theme-minimal, jekyll-theme-cayman)
 theme: minima
+
+header_pages:
+  - index.md
+  - about.md
+  - portfolio.md
