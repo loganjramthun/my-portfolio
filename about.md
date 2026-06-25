@@ -15,9 +15,37 @@ When I’m not hitting the books or working part-time at Sportsman’s Warehouse
 Outside of school and flying, I’m a big fan of fishing, hunting, and traveling whenever I can. I’m also big into video games and have been getting interested in learning animation and graphic design on the side.
 
 ## Contact Form
-<form class="contact-form" action="https://formsubmit.co/logan.j.ramthun@gmail.com" method="POST">
+<style>
+  .contact-form {
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    gap: 15px;
+    margin-top: 20px;
+  }
+  .contact-form input, .contact-form textarea {
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 16px;
+  }
+  .contact-form button {
+    padding: 12px;
+    background-color: #2c3e50;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  .contact-form button:hover {
+    background-color: #34495e;
+  }
+</style>
+
+<form class="contact-form" action="https://formsubmit.co/YOUR_EMAIL@DOMAIN.COM" method="POST">
   <input type="text" name="name" placeholder="Your Name" required>
   <input type="email" name="email" placeholder="Your Email" required>
   <textarea name="message" placeholder="Your Message" required></textarea>
-  <button type="submit">Send</button>
+  <button type="submit">Send Message</button>
 </form>
