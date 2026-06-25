@@ -15,7 +15,7 @@ When I’m not hitting the books or working part-time at Sportsman’s Warehouse
 Outside of school and flying, I’m a big fan of fishing, hunting, and traveling whenever I can. I’m also big into video games and have been getting interested in learning animation and graphic design on the side.
 
 ## Contact Form
-<form action="https://formsubmit.co/logan.j.ramthun@gamil.com" method="POST">
+<form class="contact-form" action="https://formsubmit.co/logan.j.ramthun@gmail.com" method="POST">
   <input type="text" name="name" placeholder="Your Name" required>
   <input type="email" name="email" placeholder="Your Email" required>
   <textarea name="message" placeholder="Your Message" required></textarea>
