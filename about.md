@@ -4,7 +4,7 @@ title: About Me
 ---
 
 # Photo
-![A photo of me](assets/IMG_5509.JPG)
+![A photo of me](IMG_5509.JPG)
 
 # Biography
 
