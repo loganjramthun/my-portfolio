@@ -5,9 +5,9 @@ title: Portfolio
 
 <div class="portfolio-grid">
   <!-- Card 1 -->
-  <div class="card">
-    <img src="{{ site.baseurl }/}assets/css/The.enduring.farming_finshined.jpg" alt="Project 1">
-    <h3>Project Title</h3>
-    <p>This is my short write-up describing the project. It sits nicely under the image.</p>
-  </div>
+<div class="card">
+  <img src="{{ '/assets/images/enduring-farming-finished.jpg' | relative_url }}" alt="A brief description of the farming project">
+  <h3>Project Title</h3>
+  <p>Your short write-up goes here, outside of the alt attribute.</p>
+</div>
 </div>
