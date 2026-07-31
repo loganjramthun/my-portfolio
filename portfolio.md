@@ -13,10 +13,7 @@ title: Portfolio
 
 <!-- Card 2: 800-Word Essay -->
   <div class="card" id="final-essay">
-    <h3>Essay on Copyright, Repatriation, and Restitution</h3>
-     <details>
-       <summary style="cursor: pointer; font-weight: bold; color: #0056b3;">Read Full Essay</summary>
-        <div style="margin-top: 15px; text-align: left;">
+          <h3>Essay on Copyright, Repatriation, and Restitution</h3>
           <p>I. Introduction</p>
           <p>In the modern era, it takes roughly forty seconds for a creator's hard work to be stolen and redistributed across the internet. Copyright laws were originally developed to safeguard artists' projects, ensuring their original creations could not be unlawfully shared or monetized by third parties. However, the rise of the digital age has created constant legal gray areas and enforcement challenges. Because the internet enables users to transmit massive amounts of data across hundreds of platforms in a matter of seconds, it continuously forces us back to the core question of intellectual property: who truly owns digital content, and how can they protect it from exploitation? While open sharing fosters culture, unsanctioned redistribution without credit or permission crosses the line into IP theft; navigating the internet ethically requires balancing creative freedom with creator protections.</p>
           <p>II. The Purpose of Copyright & The Internet’s Impact</p>
@@ -30,8 +27,6 @@ title: Portfolio
           <p>The digital age demands a delicate equilibrium between user expression and creator security. As technology evolves, copyright laws and digital etiquette must adapt to ensure artists are protected without suffocating cultural innovation. Fair Use and transformative media protect collective creativity, while copyright enforcement secures the livelihoods of those who supply the digital world with original art. Ultimately, practicing ethical digital citizenship comes down to a simple principle: encouraging open dialogue and creative sharing while always giving credit where credit is due.</p>
           <p>Citations</p>
           <p>“Intellectual Property Law: Why It Matters? | The Sustainable Heritage Network.” THE SUSTAINABLE HERITAGE NETWORK, THE SUSTAINABLE HERITAGE NETWORK, sustainableheritagenetwork.org/digital-heritage/intellectual-property-law-why-it-matters. Accessed 30 July 2026.</p>
-        </div>
-     </details>
   </div>
   
 </div>
