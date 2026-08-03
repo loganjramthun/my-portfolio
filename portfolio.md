@@ -28,5 +28,13 @@ title: Portfolio
           <p>Citations</p>
           <p>“Intellectual Property Law: Why It Matters? | The Sustainable Heritage Network.” THE SUSTAINABLE HERITAGE NETWORK, THE SUSTAINABLE HERITAGE NETWORK, sustainableheritagenetwork.org/digital-heritage/intellectual-property-law-why-it-matters. Accessed 30 July 2026.</p>
   </div>
+
+  <!-- Card 3 -->
+<div class="card">
+  <img src="{{ '/assets/images/rotting-fields.jpg' | relative_url }}" alt="Rotting field">
+  <h3>The Rotting Fields</h3>
+  <p>For this assignment, my vector-based Illustrator image explores the theme of “Place and Displacement” through the lens of personal memory and urban development. The piece contrasts a vibrant, natural meadow and riverbank near the Green River in Auburn with a modern, mute-colored apartment complex constructed over it. By focusing on my position as a witness to the displacement of a familiar landscape from my childhood, the image highlights the dual human nature of being simultaneously creative and destructive.</p>
+</div>
+  
   
 </div>
